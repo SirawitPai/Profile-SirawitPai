@@ -7,7 +7,7 @@ Details about Mr. Sirawit Boonthong
 ![1635103963684](https://user-images.githubusercontent.com/71228820/138609832-a7a402aa-052e-4438-abba-82e2062235f8.jpg)
 ![1635103980078](https://user-images.githubusercontent.com/71228820/138609837-2a9036a5-72d3-4f78-aa8c-286a4958bb95.jpg)
 ![1635103994988](https://user-images.githubusercontent.com/71228820/138609838-f10ca41f-e19e-45d3-98cf-6413f2d271f5.jpg)
-![1635103994988](https://user-images.githubusercontent.com/71228820/138609850-ecdcc124-2b32-4ffe-82a7-0ee4055f35fc.jpg)
+
 ![1635103930651](https://user-images.githubusercontent.com/71228820/138609855-c2496a9f-ef99-4aa9-810a-7e9c991fe7cd.jpg)
 ![1635103945996](https://user-images.githubusercontent.com/71228820/138609857-428e3736-c33f-47b9-a075-6a7f9aa71fab.jpg)
 
