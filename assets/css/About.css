@@ -239,6 +239,11 @@ input:focus {
   padding-left: 75px;
 }
 
+.services .content-col-image p {
+  font-size: 50px;
+  text-align: center;
+}
+
 /* Get application */
 .getapp-wrapper {
   background-color: #f8f8f8;
@@ -599,7 +604,7 @@ span {
   .nav__link {
     color: var(--second-color);
   }
-
+  /* 
   .home {
     height: 100vh;
   }
@@ -623,7 +628,7 @@ span {
   .home__img {
     width: 457px;
     bottom: 15%;
-  }
+  } */
 
   .about__container,
   .skills__container {
@@ -691,4 +696,16 @@ span {
   margin-left: 20px;
   padding: 0;
   list-style: none;
+}
+
+/* ---------------------------------------------------------- */
+
+.title {
+  text-align: center;
+}
+
+.img-test {
+  text-align: center;
+  display: block;
+  margin: auto;
 }
